@@ -1,4 +1,4 @@
-//* notação big O igual a 1
+//* notação big O igual a n
 /*
     _ não importa o volume da entrada, sempre irá passar apenas uma vez no bloco de código
 */
