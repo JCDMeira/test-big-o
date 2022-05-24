@@ -1,6 +1,7 @@
 //* notação big O igual a n
 /*
-    _ não importa o volume da entrada, sempre irá passar apenas uma vez no bloco de código
+    _ Vai passar uma vez por cada pedaço do volume de entrada.
+    _ se o tamanho for 1, passa uma vez. Se for 100 passa 100 vezes.
 */
 const array = [];
 

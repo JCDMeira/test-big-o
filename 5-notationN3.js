@@ -1,6 +1,7 @@
 //* notação big O igual a n ao cubo
 /*
-    _ não importa o volume da entrada, sempre irá passar apenas uma vez no bloco de código
+    _ Passa pelo bloco o número de entrada ao cubo.
+    _ Se vier uma entrada de tamanho 2, passará 4. Se vier 10, passará 1000.
 */
 const array = [];
 

@@ -1,6 +1,7 @@
 //* notação big O igual a n ao quadrado
 /*
-    _ não importa o volume da entrada, sempre irá passar apenas uma vez no bloco de código
+    _ Passa pelo bloco o número de entrada ao quadrado.
+    _ Se vier um tamanho 2, passará 4. Se vier 10, passará 100
 */
 const array = [];
 
