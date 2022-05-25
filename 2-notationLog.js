@@ -1,3 +1,5 @@
+//* referência -> https://gabrielschade.github.io/2019/06/16/algoritmos-i.html
+
 const array = [];
 
 for (let i = 1; i <= 10000000; i++) {
